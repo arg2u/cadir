@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "This is a tool to create one or many directories. It provides recursive and multithreading modes."
 license = "MIT"
+exclude=[".DS_Store"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [lib]
