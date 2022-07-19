@@ -1,10 +1,12 @@
 [package]
 name = "cadir"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "This is a tool to create one or many directories. It provides recursive and multithreading modes."
 license = "MIT"
 exclude=[".DS_Store"]
+repository = "https://github.com/arg2u/cadir"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [lib]
