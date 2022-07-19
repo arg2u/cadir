@@ -1,6 +1,6 @@
 [package]
 name = "cadir"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 description = "This is a tool to create one or many directories. It provides recursive and multithreading modes."
 license = "MIT"
