@@ -1,7 +1,7 @@
 # Cadir
 This is a tool to create one or many directories. It provides recursive and multithreading modes.
 
-**USAGE** <br/>
+**USAGE:** <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```$ cadir [FLAGS] [directories]```
 
 **FLAGS:** <br/>
